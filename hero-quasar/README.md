@@ -1,7 +1,3 @@
-# VueJS-Hero-quasar
- VueJs hero mobile app
-
-
 # Herocorp (hero-quasar)
 
 Mobile addaptation of herocorp webapp
